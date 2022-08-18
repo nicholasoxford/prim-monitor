@@ -1,22 +1,22 @@
 [
   {
     "name": "Quicknode",
-    "url": "${{ secrets.quickNodeURL }}",
+    "url": "${{ secrets.QUICKNODEURL }}",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "quicknode",
     "status": "down",
-    "uptime": "10.77%",
-    "uptimeDay": "10.77%",
-    "uptimeWeek": "10.77%",
-    "uptimeMonth": "10.77%",
-    "uptimeYear": "10.77%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-18": 0
+      "2022-08-18": 3
     }
   }
 ]
